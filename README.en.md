@@ -1,4 +1,4 @@
-# StripchatRecorder-MobileUI
+# StripchatRecorder-MobileUI-v0.3.1
 
 [简体中文](README.md) | [English](README.en.md)
 
@@ -39,8 +39,8 @@ A self-hosted Stripchat live stream recorder with a web-based management UI. Sup
 ### Deployment
 
 ```bash
-git clone https://github.com/rsxbgdurxbjcx-arch/StripchatRecorder-MobileUI.git
-cd StripchatRecorder-MobileUI
+git clone https://github.com/rsxbgdurxbjcx-arch/StripchatRecorder-MobileUI-v0.3.1.git
+cd StripchatRecorder-MobileUI-v0.3.1
 docker compose up -d
 ```
 
